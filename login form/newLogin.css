@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.back-style{
+    background-image: url("./components/loginImage.jpeg" );
+    
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.card-style{
+    box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.70);
+    background: transparent;
+}
+.wel-style{
+    font-family: 'Dancing Script', cursive;
+    font-size:4rem;
+    color: #34495E;
+}
+.login-style{
+    background-color: #EDBB99 ;
+    border-color:#EDBB99 ;
+}
